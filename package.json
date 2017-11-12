@@ -1,6 +1,6 @@
 {
   "name": "node-paperclip-ocr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a node-paperclip plugin that uses the tesseract npm module to extract text from images",
   "main": "index.js",
   "scripts": {
