@@ -1,7 +1,4 @@
-
-
 node-paperclip-ocr
-
 =========
 
 This is a plugin that works with node-paperclip.  It reads images and does optical character recognition and extracts the text using tesseract. 
